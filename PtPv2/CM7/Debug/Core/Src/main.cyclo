@@ -1,0 +1,15 @@
+../Core/Src/main.c:106:5:main	7
+../Core/Src/main.c:185:6:SystemClock_Config	4
+../Core/Src/main.c:262:13:MX_ETH_Init	2
+../Core/Src/main.c:311:13:MX_TIM2_Init	5
+../Core/Src/main.c:363:13:MX_GPIO_Init	1
+../Core/Src/main.c:380:13:InitETH_PTP	2
+../Core/Src/main.c:401:6:HAL_ETH_BuildRxDescriptors	2
+../Core/Src/main.c:412:6:HAL_ETH_RxCpltCallback	6
+../Core/Src/main.c:452:6:HandleSyncMessage	1
+../Core/Src/main.c:473:6:HandleFollowUpMessage	1
+../Core/Src/main.c:494:6:HandleDelayReqMessage	1
+../Core/Src/main.c:501:6:HandleDelayRespMessage	1
+../Core/Src/main.c:508:13:AdjustLocalClock	1
+../Core/Src/main.c:514:6:ConfigurePTPMACFilter	2
+../Core/Src/main.c:531:6:Error_Handler	1

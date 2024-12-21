@@ -1,0 +1,373 @@
+2024-12-20 00:26:41,500 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:26:41,790 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:26:51,481 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:26:51,677 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:26:56,487 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:26:56,671 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:27:12,881 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:27:13,083 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:27:17,990 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:27:18,189 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:27:22,067 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:27:22,264 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:27:28,479 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:27:28,670 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:27:32,978 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:27:33,547 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:34:36,706 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:34:36,960 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:35:03,494 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:35:03,670 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:35:06,601 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:35:06,775 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:35:10,991 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:35:11,178 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:35:16,005 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:35:16,188 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:35:20,975 [INFO] WebApp:190 - Connection lost
+2024-12-20 00:35:21,163 [INFO] WebApp:187 - Connection restablished
+2024-12-20 00:37:36,534 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:40,696 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:40,874 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:40,969 [WARN] ContextAllowed:140 - Switch context cannot be done in case of multiple context selected
+2024-12-20 00:37:41,241 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:41,421 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:50,777 [INFO] NvicIntPanel:101 - NVIC parent = com.st.microxplorer.plugins.ip.nvic.MultiNvicIntPanel[,0,0,633x296,layout=javax.swing.BoxLayout,alignmentX=0.0,alignmentY=0.0,border=,flags=9,maximumSize=,minimumSize=,preferredSize=]
+2024-12-20 00:37:54,163 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:37:54,362 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:38:55,374 [WARN] BspModel:444 - BSP dependency skipped because of component: name='DP83848', api='BSP_COMPONENT_DRIVER'
+2024-12-20 00:38:55,509 [WARN] BspModel:444 - BSP dependency skipped because of component: name='DP83848', api='BSP_COMPONENT_DRIVER'
+2024-12-20 00:38:55,514 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:38:55,518 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:38:55,534 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:38:55,537 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,293 [WARN] BspModel:444 - BSP dependency skipped because of component: name='DP83848', api='BSP_COMPONENT_DRIVER'
+2024-12-20 00:39:01,299 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,303 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,320 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,322 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,488 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:01,490 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,590 [WARN] BspModel:444 - BSP dependency skipped because of component: name='DP83848', api='BSP_COMPONENT_DRIVER'
+2024-12-20 00:39:29,593 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,595 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,611 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,613 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,683 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:29,685 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,069 [WARN] BspModel:444 - BSP dependency skipped because of component: name='DP83848', api='BSP_COMPONENT_DRIVER'
+2024-12-20 00:39:40,076 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,079 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,120 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,121 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,210 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:40,213 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,036 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,040 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,079 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,082 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,117 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:39:52,119 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,385 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,389 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,425 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,427 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,451 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:18,453 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:53,696 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 512474112 Bytes (1073741824)
+2024-12-20 00:40:54,489 [ERROR] IocParser:95 - Exception caught: Cannot invoke "java.lang.CharSequence.length()" because "this.text" is null
+2024-12-20 00:40:55,645 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 536831776 Bytes (1073741824)
+2024-12-20 00:40:57,588 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 585348096 Bytes (1073741824)
+2024-12-20 00:40:57,941 [ERROR] IocParser:95 - Exception caught: Cannot invoke "java.lang.CharSequence.length()" because "this.text" is null
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ETH
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8H7
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: LWIP
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC2
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DEBUG
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS_M4
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NUCLEO-H755ZI-Q
+2024-12-20 00:40:58,112 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC1
+2024-12-20 00:40:58,114 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2024-12-20 00:40:58,123 [WARN] IP:2251 - CMSIS_VERSION not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:58,125 [WARN] IP:2251 - LWIP_NETIF_HOSTNAME_NAME not found: check if there is a RefParameter without a condition.
+2024-12-20 00:40:58,228 [INFO] Middleware:1450 - No code input for Bsp Dependency
+2024-12-20 00:40:58,249 [INFO] Middleware:1450 - No code input for Bsp Dependency
+2024-12-20 00:40:58,256 [INFO] CodeGenerator:1620 - *******************Project context M7 selected
+2024-12-20 00:40:58,356 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:40:58,622 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:40:58,665 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp_save
+2024-12-20 00:40:58,806 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp
+2024-12-20 00:40:58,910 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_vars.tmp_save
+2024-12-20 00:40:59,053 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_vars.tmp
+2024-12-20 00:40:59,062 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_inc.tmp_save
+2024-12-20 00:40:59,161 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_inc.tmp
+2024-12-20 00:40:59,185 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_HalInit.tmp_save
+2024-12-20 00:40:59,328 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_HalInit.tmp
+2024-12-20 00:40:59,344 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_Msp.tmp_save
+2024-12-20 00:40:59,463 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\eth_Msp.tmp
+2024-12-20 00:40:59,489 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:40:59,578 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC1 ip!!
+2024-12-20 00:40:59,670 [INFO] Middleware:1450 - No code input for Bsp Dependency
+2024-12-20 00:40:59,694 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:40:59,766 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp
+2024-12-20 00:40:59,773 [INFO] Middleware:1450 - No code input for Bsp Dependency
+2024-12-20 00:40:59,798 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\App\lwip.c_save
+2024-12-20 00:40:59,912 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\App\lwip.c
+2024-12-20 00:40:59,923 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\App\lwip.h_save
+2024-12-20 00:41:00,007 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\App\lwip.h
+2024-12-20 00:41:00,019 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\lwipopts.h_save
+2024-12-20 00:41:00,264 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\lwipopts.h
+2024-12-20 00:41:00,276 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\ethernetif.c_save
+2024-12-20 00:41:00,358 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\ethernetif.c
+2024-12-20 00:41:00,378 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\ethernetif.h_save
+2024-12-20 00:41:00,444 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\LWIP\Target\ethernetif.h
+2024-12-20 00:41:00,482 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:41:00,539 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:41:00,549 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:41:00,604 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:41:00,614 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp_save
+2024-12-20 00:41:00,664 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp
+2024-12-20 00:41:00,675 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp_save
+2024-12-20 00:41:00,732 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp
+2024-12-20 00:41:00,742 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp_save
+2024-12-20 00:41:00,784 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp
+2024-12-20 00:41:00,788 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp_save
+2024-12-20 00:41:00,841 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp
+2024-12-20 00:41:00,845 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp_save
+2024-12-20 00:41:00,893 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp
+2024-12-20 00:41:00,928 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:41:01,100 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c
+2024-12-20 00:41:01,120 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:41:01,220 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:41:01,334 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:41:01,438 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:41:01,450 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp_save
+2024-12-20 00:41:01,508 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp
+2024-12-20 00:41:01,535 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:41:01,615 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:41:01,650 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:41:01,650 [WARN] IPConfigManager:3618 - IP not found : TIM
+2024-12-20 00:41:01,651 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:41:01,651 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:41:01,681 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h_save
+2024-12-20 00:41:01,753 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h
+2024-12-20 00:41:01,776 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c_save
+2024-12-20 00:41:01,882 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c
+2024-12-20 00:41:01,927 [INFO] CodeGenerator:1620 - *******************Project context M4 selected
+2024-12-20 00:41:01,968 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:41:02,024 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:41:02,032 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:41:02,044 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC2 ip!!
+2024-12-20 00:41:02,056 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:41:02,115 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp
+2024-12-20 00:41:02,135 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:41:02,193 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:41:02,197 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:41:02,237 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:41:02,268 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:41:02,324 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c
+2024-12-20 00:41:02,328 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:41:02,373 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:41:02,408 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:41:02,491 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:41:02,497 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp_save
+2024-12-20 00:41:02,534 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp
+2024-12-20 00:41:02,550 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:41:02,623 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:41:02,646 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:41:02,648 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:41:02,663 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h_save
+2024-12-20 00:41:02,729 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h
+2024-12-20 00:41:02,751 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c_save
+2024-12-20 00:41:02,826 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c
+2024-12-20 00:41:03,480 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 475mS.
+2024-12-20 00:41:03,507 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2024-12-20 00:41:03,595 [INFO] ConfigFileManager:1579 - The Die is : DIE450
+2024-12-20 00:41:11,610 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 8103mS.
+2024-12-20 00:41:11,611 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
+2024-12-20 00:41:11,619 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2024-12-20 00:41:55,412 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:42:10,569 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:42:11,244 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 441446320 Bytes (1073741824)
+2024-12-20 00:42:12,110 [ERROR] IocParser:95 - Exception caught: Cannot invoke "java.lang.CharSequence.length()" because "this.text" is null
+2024-12-20 00:42:12,448 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 465041328 Bytes (1073741824)
+2024-12-20 00:42:13,898 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 515895216 Bytes (1073741824)
+2024-12-20 00:42:14,081 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: ETH
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8H7
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC2
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DEBUG
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS_M4
+2024-12-20 00:42:14,082 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NUCLEO-H755ZI-Q
+2024-12-20 00:42:14,083 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC1
+2024-12-20 00:42:14,084 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2024-12-20 00:42:14,139 [INFO] CodeGenerator:1620 - *******************Project context M7 selected
+2024-12-20 00:42:14,140 [ERROR] IocParser:95 - Exception caught: Cannot invoke "java.lang.CharSequence.length()" because "this.text" is null
+2024-12-20 00:42:14,196 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:42:14,407 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:42:14,445 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp_save
+2024-12-20 00:42:14,589 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp
+2024-12-20 00:42:14,614 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:42:14,711 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC1 ip!!
+2024-12-20 00:42:14,835 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:42:14,958 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp
+2024-12-20 00:42:14,983 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:42:15,099 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:42:15,103 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:42:15,183 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:42:15,187 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp_save
+2024-12-20 00:42:15,256 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp
+2024-12-20 00:42:15,260 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp_save
+2024-12-20 00:42:15,324 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp
+2024-12-20 00:42:15,327 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp_save
+2024-12-20 00:42:15,391 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp
+2024-12-20 00:42:15,397 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp_save
+2024-12-20 00:42:15,456 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp
+2024-12-20 00:42:15,459 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp_save
+2024-12-20 00:42:15,504 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp
+2024-12-20 00:42:15,542 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:42:15,625 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c
+2024-12-20 00:42:15,633 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:42:15,681 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:42:15,772 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:42:15,905 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:42:15,908 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp_save
+2024-12-20 00:42:15,965 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp
+2024-12-20 00:42:15,994 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:42:16,110 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:42:16,165 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:42:16,165 [WARN] IPConfigManager:3618 - IP not found : TIM
+2024-12-20 00:42:16,166 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:42:16,166 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:42:16,193 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h_save
+2024-12-20 00:42:16,305 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h
+2024-12-20 00:42:16,335 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c_save
+2024-12-20 00:42:16,500 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c
+2024-12-20 00:42:16,548 [INFO] CodeGenerator:1620 - *******************Project context M4 selected
+2024-12-20 00:42:16,607 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:42:16,701 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:42:16,706 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:42:16,718 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC2 ip!!
+2024-12-20 00:42:16,728 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:42:16,837 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp
+2024-12-20 00:42:16,859 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:42:16,956 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:42:16,961 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:42:17,018 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:42:17,072 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:42:17,168 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c
+2024-12-20 00:42:17,173 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:42:17,236 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:42:17,286 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:42:17,390 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:42:17,393 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp_save
+2024-12-20 00:42:17,449 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp
+2024-12-20 00:42:17,479 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:42:17,616 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:42:17,651 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:42:17,652 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:42:17,680 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h_save
+2024-12-20 00:42:17,750 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h
+2024-12-20 00:42:17,780 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c_save
+2024-12-20 00:42:17,880 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c
+2024-12-20 00:42:18,286 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 198mS.
+2024-12-20 00:42:18,294 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2024-12-20 00:42:18,361 [INFO] ConfigFileManager:1579 - The Die is : DIE450
+2024-12-20 00:42:40,103 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 21810mS.
+2024-12-20 00:42:40,104 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2024-12-20 00:42:40,105 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2024-12-20 00:46:07,548 [WARN] MainPanel:289 - <html><b><center>Warning: This peripheral has no parameters to be configured<br></b></html>
+2024-12-20 00:47:37,499 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 463924120 Bytes (1073741824)
+2024-12-20 00:47:38,230 [ERROR] IocParser:95 - Exception caught: Cannot invoke "java.lang.CharSequence.length()" because "this.text" is null
+2024-12-20 00:47:38,282 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 498892824 Bytes (1073741824)
+2024-12-20 00:47:38,509 [INFO] UtilMem:75 - End SaveConfig() Used Memory: 521986912 Bytes (1073741824)
+2024-12-20 00:47:38,645 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: RCC
+2024-12-20 00:47:38,645 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: TIM1_8H7
+2024-12-20 00:47:38,645 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS
+2024-12-20 00:47:38,645 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC2
+2024-12-20 00:47:38,645 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: DEBUG
+2024-12-20 00:47:38,646 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: GPIO
+2024-12-20 00:47:38,646 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: SYS_M4
+2024-12-20 00:47:38,646 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NUCLEO-H755ZI-Q
+2024-12-20 00:47:38,646 [INFO] BlockDiagram:2766 - set Specific Code input for plugin: NVIC1
+2024-12-20 00:47:38,647 [INFO] CodeGenerator:896 - code generatio: config db path: C:\ST\STM32CubeIDE_1.17.0\STM32CubeIDE\plugins\com.st.stm32cube.common.mx_6.13.0.202411220809\\db\
+2024-12-20 00:47:38,697 [INFO] CodeGenerator:1620 - *******************Project context M7 selected
+2024-12-20 00:47:38,741 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:47:38,966 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:47:39,000 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp_save
+2024-12-20 00:47:39,158 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\gpio.tmp
+2024-12-20 00:47:39,183 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:47:39,243 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC1 ip!!
+2024-12-20 00:47:39,323 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:47:39,439 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\cortex.tmp
+2024-12-20 00:47:39,461 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:47:39,538 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:47:39,543 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:47:39,611 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:47:39,614 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp_save
+2024-12-20 00:47:39,672 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_vars.tmp
+2024-12-20 00:47:39,676 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp_save
+2024-12-20 00:47:39,738 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_init.tmp
+2024-12-20 00:47:39,742 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp_save
+2024-12-20 00:47:39,787 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_before_while.tmp
+2024-12-20 00:47:39,790 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp_save
+2024-12-20 00:47:39,841 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_inside_while.tmp
+2024-12-20 00:47:39,845 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp_save
+2024-12-20 00:47:39,888 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\bsp_common_demo_fct.tmp
+2024-12-20 00:47:39,913 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:47:39,972 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_it.c
+2024-12-20 00:47:39,977 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:47:40,026 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:47:40,095 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:47:40,192 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:47:40,196 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp_save
+2024-12-20 00:47:40,243 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\MXTmpFiles\system.tmp
+2024-12-20 00:47:40,260 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:47:40,337 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:47:40,388 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:47:40,388 [WARN] IPConfigManager:3618 - IP not found : TIM
+2024-12-20 00:47:40,389 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:47:40,389 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:47:40,406 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h_save
+2024-12-20 00:47:40,462 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Inc\main.h
+2024-12-20 00:47:40,476 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c_save
+2024-12-20 00:47:40,588 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM7\Core\Src\main.c
+2024-12-20 00:47:40,630 [INFO] CodeGenerator:1620 - *******************Project context M4 selected
+2024-12-20 00:47:40,672 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp_save
+2024-12-20 00:47:40,734 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\MXTmpFiles\license.tmp
+2024-12-20 00:47:40,739 [WARN] IPConfigManager:98 - WARNING: Missing Config File for DEBUG ip!!
+2024-12-20 00:47:40,753 [WARN] IPConfigManager:98 - WARNING: Missing Config File for NVIC2 ip!!
+2024-12-20 00:47:40,761 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp_save
+2024-12-20 00:47:40,849 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\cortex.tmp
+2024-12-20 00:47:40,867 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h_save
+2024-12-20 00:47:40,951 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_nucleo_conf.h
+2024-12-20 00:47:40,954 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp_save
+2024-12-20 00:47:40,995 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\bsp_inc.tmp
+2024-12-20 00:47:41,042 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c_save
+2024-12-20 00:47:41,133 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_it.c
+2024-12-20 00:47:41,139 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h_save
+2024-12-20 00:47:41,200 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_it.h
+2024-12-20 00:47:41,260 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c_save
+2024-12-20 00:47:41,367 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\stm32h7xx_hal_msp.c
+2024-12-20 00:47:41,373 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp_save
+2024-12-20 00:47:41,439 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\MXTmpFiles\system.tmp
+2024-12-20 00:47:41,476 [INFO] CodeEngine:311 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h_save
+2024-12-20 00:47:41,621 [INFO] CodeEngine:335 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\stm32h7xx_hal_conf.h
+2024-12-20 00:47:41,666 [WARN] IPConfigManager:3618 - IP not found : NVIC
+2024-12-20 00:47:41,667 [WARN] CodeGenerator:4152 - IP not found : null
+2024-12-20 00:47:41,711 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h_save
+2024-12-20 00:47:41,781 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Inc\main.h
+2024-12-20 00:47:41,799 [INFO] CodeEngine:255 - oldGeneratedFile, C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c_save
+2024-12-20 00:47:41,878 [INFO] CodeEngine:279 - Generated code: C:\Projects\STM32_Projects\PtPv2\PtPv2\CM4\Core\Src\main.c
+2024-12-20 00:47:42,199 [INFO] ProjectBuilder:3289 - Time for Copy HAL[1] : 162mS.
+2024-12-20 00:47:42,207 [INFO] ProjectBuilder:4876 - Project Generator version: 4.5.0-RC5
+2024-12-20 00:47:42,260 [INFO] ConfigFileManager:1579 - The Die is : DIE450
+2024-12-20 00:47:47,578 [INFO] ProjectBuilder:5154 - Time for Generating toolchain IDE Files: 5370mS.
+2024-12-20 00:47:47,580 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 1mS.
+2024-12-20 00:47:47,582 [INFO] ProjectBuilder:3146 - Time for Copy CMSIS : 0mS.
+2024-12-20 00:47:48,169 [INFO] WebApp:389 - JxBrowser engine has been closed 

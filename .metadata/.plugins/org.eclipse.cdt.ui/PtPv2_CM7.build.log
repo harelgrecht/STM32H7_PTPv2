@@ -1,0 +1,10 @@
+23:19:08 **** Incremental Build of configuration Debug for project PtPv2_CM7 ****
+make -j16 all 
+arm-none-eabi-size  PtPv2_CM7.elf 
+   text	   data	    bss	    dec	    hex	filename
+  17788	    300	   2228	  20316	   4f5c	PtPv2_CM7.elf
+Finished building: default.size.stdout
+ 
+
+23:19:08 Build Finished. 0 errors, 0 warnings. (took 249ms)
+

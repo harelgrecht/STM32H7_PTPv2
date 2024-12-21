@@ -1,0 +1,15 @@
+../Core/Src/main.c:106:5:main	16	static
+../Core/Src/main.c:185:6:SystemClock_Config	152	static
+../Core/Src/main.c:262:13:MX_ETH_Init	8	static
+../Core/Src/main.c:311:13:MX_TIM2_Init	56	static
+../Core/Src/main.c:363:13:MX_GPIO_Init	24	static
+../Core/Src/main.c:380:13:InitETH_PTP	88	static
+../Core/Src/main.c:401:6:HAL_ETH_BuildRxDescriptors	24	static
+../Core/Src/main.c:412:6:HAL_ETH_RxCpltCallback	24	static
+../Core/Src/main.c:452:6:HandleSyncMessage	24	static
+../Core/Src/main.c:473:6:HandleFollowUpMessage	24	static
+../Core/Src/main.c:494:6:HandleDelayReqMessage	16	static
+../Core/Src/main.c:501:6:HandleDelayRespMessage	16	static
+../Core/Src/main.c:508:13:AdjustLocalClock	16	static
+../Core/Src/main.c:514:6:ConfigurePTPMACFilter	32	static
+../Core/Src/main.c:531:6:Error_Handler	4	static,ignoring_inline_asm
